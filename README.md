@@ -60,7 +60,7 @@ Le projet suit le patron **MVC** (Modèle - Vue - Contrôleur) :
 
 ---
  
-## 🔗 Projet associé
+## Projet associé
  
 | Situation | Repo | Description |
 |---|---|---|

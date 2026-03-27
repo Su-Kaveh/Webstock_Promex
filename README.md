@@ -1,6 +1,6 @@
 # WebStock — Promex
  
-> SP1 - Client léger / Épreuve E6 BTS SIO SLAM - Session 2026
+> Situation Professionnelle 1 - Client léger / Épreuve E6 BTS SIO SLAM - Session 2026
  
 Application web de gestion des stocks développée pour **Promex**, PME de distribution de matériel professionnel basée à Villejuif (94).
  
@@ -34,7 +34,7 @@ Promex gérait ses stocks via des fichiers Excel partagés sur le réseau local,
  
 ## Base de données
  
-WebStock utilise la base **promex_db**, partagée avec LogiDesk (SP2).
+WebStock utilise la base **promex_db**, partagée avec LogiDesk (Situation Pro 2).
  
 | Table | Description |
 |---|---|
@@ -64,7 +64,7 @@ Le projet suit le patron **MVC** (Modèle - Vue - Contrôleur) :
  
 | Situation | Repo | Description |
 |---|---|---|
-| SP2 | [LogiDesk_Promex](https://github.com/Su-Kaveh/LogiDesk_Promex) | Client lourd — Gestion des commandes fournisseurs (Python / PySide6) |
+| SP2 | [LogiDesk_Promex](https://github.com/Su-Kaveh/LogiDesk_Promex) | Client lourd - Gestion des commandes fournisseurs (Python / PySide6) |
  
 ---
  

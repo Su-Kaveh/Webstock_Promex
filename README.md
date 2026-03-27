@@ -58,5 +58,14 @@ Le projet suit le patron **MVC** (Modèle - Vue - Contrôleur) :
  
 ---
 
+---
+ 
+## 🔗 Projet associé
+ 
+| Situation | Repo | Description |
+|---|---|---|
+| SP2 | [LogiDesk_Promex](https://github.com/kaveh-ostad/LogiDesk_Promex) | Client lourd — Gestion des commandes fournisseurs (Python / PySide6) |
+ 
+---
  
 

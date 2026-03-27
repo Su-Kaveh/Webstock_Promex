@@ -1,4 +1,4 @@
-# WebStock — Promex
+# WebStock - Promex
  
 > Situation Professionnelle 1 - Client léger / Épreuve E6 BTS SIO SLAM - Session 2026
  

@@ -49,7 +49,7 @@ WebStock utilise la base **promex_db**, partagée avec LogiDesk (Situation Pro 2
  
 ## Architecture
  
-Le projet suit le patron **MVC** (Modèle - Vue - Contrôleur) :
+Le projet suit le modèle **MVC** (Modèle - Vue - Contrôleur) :
  
 - **Modèles** : classes PHP gérant l'accès aux données via PDO
 - **Vues** : fichiers PHP générant le HTML affiché à l'utilisateur

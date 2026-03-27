@@ -1,6 +1,6 @@
 # WebStock — Promex
  
-> SP1 — Client léger | Épreuve E6 BTS SIO SLAM — Session 2026
+> SP1 - Client léger / Épreuve E6 BTS SIO SLAM - Session 2026
  
 Application web de gestion des stocks développée pour **Promex**, PME de distribution de matériel professionnel basée à Villejuif (94).
  
